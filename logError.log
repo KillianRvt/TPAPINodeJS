@@ -1,0 +1,4 @@
+[2018-11-05 15:29:20] Error on : [GET] /items
+[2018-11-05 15:30:27] Error on : [GET] /items
+[2018-11-05 15:32:00] Error on : [GET] /items/2
+[2018-11-05 15:32:05] Error on : [DELETE] /items/2

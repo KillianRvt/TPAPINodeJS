@@ -1,0 +1,42 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "abc",
+            "password": "Password"
+        },
+        {
+            "id": "2",
+            "name": "ugzebimsurfbze",
+            "password": "Password"
+        }
+    ],
+    "items": [
+        {
+            "id": 1,
+            "label": "sword",
+            "image": "http://www.darkknightarmoury.com/images/Product/large/NP-H-5908.png",
+            "description": "it's a sword, yey"
+        }
+    ],
+    "lists": [
+        {
+            "id": 1,
+            "name": "stuff1",
+            "user_id": 1,
+            "item_id": 1
+        },
+        {
+            "id": 2,
+            "label": "stuff2",
+            "user_id": 1,
+            "item_id": 2
+        },
+        {
+            "id": 3,
+            "label": "stuff3",
+            "user_id": 2,
+            "item_id": 1
+        }
+    ]
+}
